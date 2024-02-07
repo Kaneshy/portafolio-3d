@@ -21,14 +21,14 @@ export const proyectsData = [
         route:'https://forza-ecommerce.vercel.app/'
     },
     {
-        image:'https://res.cloudinary.com/dh01ngdjo/image/upload/v1704814488/FASHION/Screenshot_2024-01-09_103436_xlodrt.jpg',
+        image:'https://res.cloudinary.com/dh01ngdjo/image/upload/v1707155946/Screenshot_2024-02-05_125850_jfaop1.jpg',
         title: 'Dashboard for E-commerce ',
         desc: 'nextjs tailwind-css framer-mation firebase nextjs-api',
         linkH: '/',
         route:'https://dashboard-a.vercel.app/dashboard/products'
     },
     {
-        image:'https://res.cloudinary.com/dh01ngdjo/image/upload/v1705074703/Screenshot_2024-01-12_105045_jdjj9m.jpg',
+        image:'https://res.cloudinary.com/dh01ngdjo/image/upload/v1707155837/Screenshot_2024-02-05_125645_cjdak1.jpg',
         title: 'Customize your T-shirt 3D',
         desc: 'react threejs vite tailwind css voltio',
         linkH: '/',
